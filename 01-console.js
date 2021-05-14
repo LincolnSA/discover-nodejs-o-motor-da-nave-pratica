@@ -1,0 +1,1 @@
+console.log("Essa função mostra informações no console")
